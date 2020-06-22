@@ -1,2 +1,2 @@
-# ArduinoStandalone
- Projeto útil para quem deseja confeccionar sua própria placa Arduino
+# Arduino Standalone
+ Projeto útil para quem deseja confeccionar sua própria placa Arduino.
