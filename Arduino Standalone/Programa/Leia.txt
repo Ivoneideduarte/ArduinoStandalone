@@ -1,0 +1,1 @@
+Primeiramente, monte o projeto na protoboard e confira se está tudo funcionando devidamente, só após confeccione a placa de circuito impresso.
